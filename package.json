@@ -1,0 +1,19 @@
+{
+  "name": "carry",
+  "version": "0.0.1",
+  "description": "Carry attrs, classes from one element to another.",
+  "license": "MIT",
+  "main": "./index.js",
+  "dependencies": {
+    "classes-component": "1.1.3",
+    "uniq-component": "defunctzombie/uniq#36a99d1c"
+  },
+  "browser": {
+    "classes": "classes-component",
+    "uniq": "uniq-component"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/defunctzombie/carry"
+  }
+}

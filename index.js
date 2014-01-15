@@ -3,7 +3,7 @@
  * dependencies
  */
 
-var merge = require('merge-attrs')
+var merge = require('./lib/merge-attrs')
   , classes = require('classes')
   , uniq = require('uniq');
 
