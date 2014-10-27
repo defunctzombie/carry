@@ -5,11 +5,11 @@
   "license": "MIT",
   "main": "./index.js",
   "dependencies": {
-    "classes-component": "1.1.3",
+    "component-classes": "1.2.2",
     "uniq-component": "defunctzombie/uniq#36a99d1c"
   },
   "browser": {
-    "classes": "classes-component",
+    "classes": "component-classes",
     "uniq": "uniq-component"
   },
   "repository": {
