@@ -5,7 +5,7 @@
   "license": "MIT",
   "main": "./index.js",
   "dependencies": {
-    "component-classes": "1.2.2",
+    "component-classes": "1.2.4",
     "uniq-component": "defunctzombie/uniq#36a99d1c"
   },
   "browser": {
