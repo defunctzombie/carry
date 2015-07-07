@@ -1,6 +1,6 @@
 {
   "name": "carry",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Carry attrs, classes from one element to another.",
   "license": "MIT",
   "main": "./index.js",
@@ -15,5 +15,6 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/defunctzombie/carry"
-  }
+  },
+  "scripts": {}
 }
